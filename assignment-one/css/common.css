@@ -1,0 +1,9 @@
+/**{
+	margin:0;
+	padding:0;
+}*/
+
+body {
+  overflow-y: scroll; /* Show vertical scrollbar */
+  overflow-x: scroll; /* Show horizontal scrollbar */
+}
